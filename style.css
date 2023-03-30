@@ -2,7 +2,7 @@
   width: 200px;
 }
 
-.vertical-menu a {
+.vertical-menu a.google {
   background-color: #eee;
   color: black;
   display: block;
@@ -10,11 +10,11 @@
   text-decoration: none;
 }
 
-.vertical-menu a:hover {
+.vertical-menu a.github {
   background-color: #ccc;
 }
 
-.vertical-menu a.active {
+.vertical-menu a.inicio {
   background-color: #04AA6D;
   color: white;
 }
