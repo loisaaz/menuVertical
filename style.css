@@ -1,20 +1,27 @@
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
 .vertical-menu {
-  width: 200px;
-}
-
-.vertical-menu a {
-  background-color: #eee;
-  color: black;
-  display: block;
-  padding: 12px;
-  text-decoration: none;
-}
-
-.vertical-menu a:hover {
-  background-color: #ccc;
-}
-
-.vertical-menu a.active {
-  background-color: #04AA6D;
-  color: white;
-}
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .vertical-menu a {
+    background-color: #d1001c;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #d1001cce;
+  }
+  
+  .vertical-menu a.active {
+    background-color: #d1001c;
+    color: white;
+  }
+  h1 {text-align: center;}
