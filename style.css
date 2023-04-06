@@ -1,6 +1,6 @@
 *{
   font-family: 'Courier New', Courier, monospace;
-  background-color: #ffeaed;
+  background-color: #f5d6de;
   text-align: center;
 }
 .vertical-menu {
@@ -25,4 +25,7 @@
     background-color: #b82c4f;
     color: white;
   }
-  h2 {text-align: center;}
+  h2 {
+    text-align: center;
+    color: #f5d6de;
+  }
